@@ -1,6 +1,6 @@
 var ajaxifyingEffect = $('.ajaxifying-effect');
 var wait_ani_html = '<div class="ajaxifying-effect ">\n' +
-	'<img src="https://v2mm-upload.b0.upaiyun.com/images/79bdab01-0aa5-4ace-82e0-ad398c5708d0.png" alt="" class="fish">\n' +
+	'<img src="http://x2cy.cdn.rendiyu.com/sf/fish.png" alt="" class="fish">\n' +
 	'<div class="bubbles bubble-1"></div>\n' +
 	'<div class="bubbles bubble-5"></div>\n' +
 	'<div class="bubbles bubble-2"></div>\n' +
